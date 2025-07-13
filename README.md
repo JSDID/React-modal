@@ -30,5 +30,3 @@
 - Управление открытием/закрытием через React useState.
 - Стилизация по БЭМ: `.modal`, `.modal__content`, `.modal__close`, `.modal__title`, `.modal__text`.
 - Закрытие по клику вне окна или на крестик.
-
----
